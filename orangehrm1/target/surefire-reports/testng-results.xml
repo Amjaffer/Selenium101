@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\ValidLogin-2018-12-04-11-21-04.png url=https://opensource-demo.orangehrmlive.com/index.php/dashboard<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\ValidLogin-2018-12-04-11-21-04.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\ValidLogin-2018-12-04-11-21-04.png"></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\ValidLogin-2018-12-04-11-21-04.png url=https://opensource-demo.orangehrmlive.com/index.php/dashboard<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\ValidLogin-2018-12-04-11-21-04.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\ValidLogin-2018-12-04-11-21-04.png"></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\InValidLogin1-2018-12-04-11-21-11.png url=https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\InValidLogin1-2018-12-04-11-21-11.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\InValidLogin1-2018-12-04-11-21-11.png"></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\InValidLogin1-2018-12-04-11-21-12.png url=https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\InValidLogin1-2018-12-04-11-21-12.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\InValidLogin1-2018-12-04-11-21-12.png"></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\PasswordEmpty-2018-12-04-11-21-18.png url=https://opensource-demo.orangehrmlive.com/<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\PasswordEmpty-2018-12-04-11-21-18.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\PasswordEmpty-2018-12-04-11-21-18.png"></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\PasswordEmpty-2018-12-04-11-21-19.png url=https://opensource-demo.orangehrmlive.com/<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\PasswordEmpty-2018-12-04-11-21-19.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\PasswordEmpty-2018-12-04-11-21-19.png"></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\UserNameEmpty-2018-12-04-11-21-25.png url=https://opensource-demo.orangehrmlive.com/<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\UserNameEmpty-2018-12-04-11-21-25.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\UserNameEmpty-2018-12-04-11-21-25.png"></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\UserNameEmpty-2018-12-04-11-21-25.png url=https://opensource-demo.orangehrmlive.com/<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\UserNameEmpty-2018-12-04-11-21-25.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\UserNameEmpty-2018-12-04-11-21-25.png"></a></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31074" started-at="2018-12-04T16:20:55Z" finished-at="2018-12-04T16:21:26Z">
+    <groups>
+    </groups>
+    <test name="Valid login Tests" duration-ms="9904" started-at="2018-12-04T16:20:55Z" finished-at="2018-12-04T16:21:05Z">
+      <class name="orangehrm1.ValidLoginTest">
+        <test-method status="PASS" signature="setupDriver(java.lang.String)[pri:0, instance:orangehrm1.ValidLoginTest@4e1d422d]" name="setupDriver" is-config="true" duration-ms="6095" started-at="2018-12-04T11:20:55Z" finished-at="2018-12-04T11:21:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="ValidLogin()[pri:0, instance:orangehrm1.ValidLoginTest@4e1d422d]" name="ValidLogin" duration-ms="2437" started-at="2018-12-04T11:21:01Z" finished-at="2018-12-04T11:21:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\ValidLogin-2018-12-04-11-21-04.png url=https://opensource-demo.orangehrmlive.com/index.php/dashboard<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\ValidLogin-2018-12-04-11-21-04.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\ValidLogin-2018-12-04-11-21-04.png"></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\ValidLogin-2018-12-04-11-21-04.png url=https://opensource-demo.orangehrmlive.com/index.php/dashboard<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\ValidLogin-2018-12-04-11-21-04.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\ValidLogin-2018-12-04-11-21-04.png"></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:orangehrm1.ValidLoginTest@4e1d422d]" name="tearDown" is-config="true" duration-ms="339" started-at="2018-12-04T11:21:04Z" finished-at="2018-12-04T11:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- orangehrm1.ValidLoginTest -->
+    </test> <!-- Valid login Tests -->
+    <test name="Invalid login Test" duration-ms="21104" started-at="2018-12-04T16:21:05Z" finished-at="2018-12-04T16:21:26Z">
+      <class name="orangehrm1.InvalidLoginTest">
+        <test-method status="PASS" signature="setupDriver(java.lang.String)[pri:0, instance:orangehrm1.InvalidLoginTest@eec5a4a]" name="setupDriver" is-config="true" duration-ms="4814" started-at="2018-12-04T11:21:05Z" finished-at="2018-12-04T11:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="InValidLogin1()[pri:0, instance:orangehrm1.InvalidLoginTest@eec5a4a]" name="InValidLogin1" duration-ms="1174" started-at="2018-12-04T11:21:10Z" finished-at="2018-12-04T11:21:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\InValidLogin1-2018-12-04-11-21-11.png url=https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\InValidLogin1-2018-12-04-11-21-11.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\InValidLogin1-2018-12-04-11-21-11.png"></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\InValidLogin1-2018-12-04-11-21-12.png url=https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\InValidLogin1-2018-12-04-11-21-12.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\InValidLogin1-2018-12-04-11-21-12.png"></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InValidLogin1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:orangehrm1.InvalidLoginTest@eec5a4a]" name="tearDown" is-config="true" duration-ms="385" started-at="2018-12-04T11:21:12Z" finished-at="2018-12-04T11:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupDriver(java.lang.String)[pri:0, instance:orangehrm1.InvalidLoginTest@eec5a4a]" name="setupDriver" is-config="true" duration-ms="4664" started-at="2018-12-04T11:21:12Z" finished-at="2018-12-04T11:21:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="PasswordEmpty()[pri:0, instance:orangehrm1.InvalidLoginTest@eec5a4a]" name="PasswordEmpty" duration-ms="1023" started-at="2018-12-04T11:21:17Z" finished-at="2018-12-04T11:21:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\PasswordEmpty-2018-12-04-11-21-18.png url=https://opensource-demo.orangehrmlive.com/<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\PasswordEmpty-2018-12-04-11-21-18.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\PasswordEmpty-2018-12-04-11-21-18.png"></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\PasswordEmpty-2018-12-04-11-21-19.png url=https://opensource-demo.orangehrmlive.com/<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\PasswordEmpty-2018-12-04-11-21-19.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\PasswordEmpty-2018-12-04-11-21-19.png"></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PasswordEmpty -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:orangehrm1.InvalidLoginTest@eec5a4a]" name="tearDown" is-config="true" duration-ms="310" started-at="2018-12-04T11:21:19Z" finished-at="2018-12-04T11:21:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupDriver(java.lang.String)[pri:0, instance:orangehrm1.InvalidLoginTest@eec5a4a]" name="setupDriver" is-config="true" duration-ms="4883" started-at="2018-12-04T11:21:19Z" finished-at="2018-12-04T11:21:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="UserNameEmpty()[pri:0, instance:orangehrm1.InvalidLoginTest@eec5a4a]" name="UserNameEmpty" duration-ms="606" started-at="2018-12-04T11:21:24Z" finished-at="2018-12-04T11:21:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\UserNameEmpty-2018-12-04-11-21-25.png url=https://opensource-demo.orangehrmlive.com/<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\UserNameEmpty-2018-12-04-11-21-25.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\UserNameEmpty-2018-12-04-11-21-25.png"></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[screenshot for C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\UserNameEmpty-2018-12-04-11-21-25.png url=https://opensource-demo.orangehrmlive.com/<div style="height:650px;width:1000px;overflow:scroll"><a target='_blank' href='C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\UserNameEmpty-2018-12-04-11-21-25.png'> <img src="C:\Users\R.computers\orangehrm1\target\surefire-reports\Screenshots\passed\UserNameEmpty-2018-12-04-11-21-25.png"></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- UserNameEmpty -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:orangehrm1.InvalidLoginTest@eec5a4a]" name="tearDown" is-config="true" duration-ms="533" started-at="2018-12-04T11:21:25Z" finished-at="2018-12-04T11:21:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- orangehrm1.InvalidLoginTest -->
+    </test> <!-- Invalid login Test -->
+  </suite> <!-- Suite -->
+</testng-results>

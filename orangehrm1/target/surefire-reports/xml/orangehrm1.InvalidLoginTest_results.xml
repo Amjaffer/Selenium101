@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Invalid login Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.803">
+  <properties />
+  
+  
+            <testcase name="InValidLogin1" time="1.174" classname="orangehrm1.InvalidLoginTest" />
+                <testcase name="UserNameEmpty" time="0.606" classname="orangehrm1.InvalidLoginTest" />
+                <testcase name="PasswordEmpty" time="1.023" classname="orangehrm1.InvalidLoginTest" />
+      
+</testsuite>

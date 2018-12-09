@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+
+  <parameter name="browser" value="chrome"/>
+<listeners>
+<listener class-name="com.anass.orangehrm1.listeners.ListenerTest"/>
+</listeners>
+
+<test name="Valid login Tests">
+    <classes>
+      <class name="orangehrm1.ValidLoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+
+  <test name="Invalid login Test">
+    <classes>
+      <class name="orangehrm1.InvalidLoginTest"/>
+    </classes>
+  </test> Test
+  
+  
+</suite> <!-- Suite -->
