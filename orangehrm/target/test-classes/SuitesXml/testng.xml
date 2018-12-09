@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  
+  <parameter name="browser" value="chrome"/>
+  
+  
+  
+  <test name="Test for login">
+    <classes>
+      <class name="com.anass.orangehrm.tests.NewTestdata1"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  
+  
+  
+</suite> <!-- Suite -->

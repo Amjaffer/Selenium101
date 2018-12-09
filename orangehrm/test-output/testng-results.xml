@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="74222" started-at="2018-11-21T05:03:01Z" finished-at="2018-11-21T05:04:16Z">
+    <groups>
+    </groups>
+    <test name="Test for login" duration-ms="74222" started-at="2018-11-21T05:03:01Z" finished-at="2018-11-21T05:04:16Z">
+      <class name="com.anass.orangehrm.tests.NewTestdata1">
+        <test-method status="PASS" signature="setupDriver(java.lang.String)[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="setupDriver" is-config="true" duration-ms="5404" started-at="2018-11-21T00:03:01Z" finished-at="2018-11-21T00:03:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="InValidLogin1(java.lang.String, java.lang.String)[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="InValidLogin1" duration-ms="6754" started-at="2018-11-21T00:03:07Z" data-provider="DataforInvalidLogin" finished-at="2018-11-21T00:03:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pwd1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidLogin1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="tearDown" is-config="true" duration-ms="297" started-at="2018-11-21T00:03:14Z" finished-at="2018-11-21T00:03:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupDriver(java.lang.String)[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="setupDriver" is-config="true" duration-ms="4268" started-at="2018-11-21T00:03:14Z" finished-at="2018-11-21T00:03:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="InValidLogin1(java.lang.String, java.lang.String)[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="InValidLogin1" duration-ms="6701" started-at="2018-11-21T00:03:18Z" data-provider="DataforInvalidLogin" finished-at="2018-11-21T00:03:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pwd2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidLogin1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="tearDown" is-config="true" duration-ms="254" started-at="2018-11-21T00:03:25Z" finished-at="2018-11-21T00:03:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupDriver(java.lang.String)[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="setupDriver" is-config="true" duration-ms="4317" started-at="2018-11-21T00:03:25Z" finished-at="2018-11-21T00:03:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="InValidLogin1(java.lang.String, java.lang.String)[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="InValidLogin1" duration-ms="6680" started-at="2018-11-21T00:03:29Z" data-provider="DataforInvalidLogin" finished-at="2018-11-21T00:03:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pwd3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidLogin1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="tearDown" is-config="true" duration-ms="264" started-at="2018-11-21T00:03:36Z" finished-at="2018-11-21T00:03:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupDriver(java.lang.String)[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="setupDriver" is-config="true" duration-ms="4360" started-at="2018-11-21T00:03:36Z" finished-at="2018-11-21T00:03:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="ValidLogin(java.lang.String, java.lang.String)[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="ValidLogin" duration-ms="8272" started-at="2018-11-21T00:03:41Z" data-provider="DataforvalidLogin" finished-at="2018-11-21T00:03:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="tearDown" is-config="true" duration-ms="2128" started-at="2018-11-21T00:03:49Z" finished-at="2018-11-21T00:03:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupDriver(java.lang.String)[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="setupDriver" is-config="true" duration-ms="4489" started-at="2018-11-21T00:03:51Z" finished-at="2018-11-21T00:03:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="ValidLogin(java.lang.String, java.lang.String)[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="ValidLogin" duration-ms="7524" started-at="2018-11-21T00:03:56Z" data-provider="DataforvalidLogin" finished-at="2018-11-21T00:04:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="tearDown" is-config="true" duration-ms="262" started-at="2018-11-21T00:04:03Z" finished-at="2018-11-21T00:04:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setupDriver(java.lang.String)[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="setupDriver" is-config="true" duration-ms="4344" started-at="2018-11-21T00:04:03Z" finished-at="2018-11-21T00:04:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="ValidLogin(java.lang.String, java.lang.String)[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="ValidLogin" duration-ms="7585" started-at="2018-11-21T00:04:08Z" data-provider="DataforvalidLogin" finished-at="2018-11-21T00:04:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.anass.orangehrm.tests.NewTestdata1@68c4039c]" name="tearDown" is-config="true" duration-ms="274" started-at="2018-11-21T00:04:15Z" finished-at="2018-11-21T00:04:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.anass.orangehrm.tests.NewTestdata1 -->
+    </test> <!-- Test for login -->
+  </suite> <!-- Suite -->
+</testng-results>
